@@ -1,5 +1,3 @@
-# github-portfolio
-
 # 🌍 Global Superstore Analytics Project
 
 This project analyzes 4 years of transactional data from a multinational retail chain, **Superstore USA**, with the goal of identifying performance gaps, improving profitability, and optimizing logistics. It demonstrates a full-stack analytics workflow using **SQL, Python, Excel, Power BI, and Tableau**—turning raw data into measurable business outcomes.
